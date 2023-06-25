@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mesghandle.h": "c",
+        "rtc.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "boardparameter.h": "c",
+        "messagehandle.h": "c"
+    }
+}
